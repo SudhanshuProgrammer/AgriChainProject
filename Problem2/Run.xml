@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Longest Substring" verbose="2" parallel="classes" thread-count="5" >
+    <test name="Find the Longest substring Length">
+        <classes>
+            <class name="testRunner.TestNGRunner"></class>
+        </classes>
+    </test>
+</suite>
