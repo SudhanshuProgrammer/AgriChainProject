@@ -1,15 +1,20 @@
 # AgriChainProject
-This is AgriChain project assignment
+> This is AgriChain project assignment
+
+## Problem 1
+> Given a string, find the length of the longest substring without repeating characters. For example, the longest substring without repeating letters for "abcabcbb" is "abc", for which the length is 3. For "bbbbb" the longest substring is "b", with the length of 1
+
+
+---
+
+> Note: Please open file to see the code `LongestSubstringWithoutRepeating.java` 
+
 
 
 # Agrichain Testing Framework
-
 ## Overview
 
-This repository contains the testing framework for the Agrichain application, focused primarily on
-testing the functionality of the "Longest Substring Without Repeating Letters" feature.
-The framework is built using Java, Selenium for browser automation,
-Cucumber for Behavior Driven Development (BDD), and TestNG for test execution.
+This repository contains the testing framework for the Agrichain application, focused primarily on testing the functionality of the "Longest Substring Without Repeating Letters" feature. The framework is built using Java, Selenium for browser automation, Cucumber for Behavior Driven Development (BDD), and TestNG for test execution.
 
 ## Technologies Used
 
@@ -43,38 +48,27 @@ src/
 
 ## Setting Up the Framework
 
-### Prerequisites
-
-- **Java JDK 8 or higher**: Ensure that the Java Development Kit is installed on your machine.
-- **Maven**: Install Maven for dependency management and build purposes.
-- **Browser Driver**: Download the appropriate WebDriver executable for the browser you intend to test (e.g., ChromeDriver for Google Chrome) and ensure it is in your system's PATH.
-
 ### Installation Steps
 
-1. Clone the Repository:
-```git clone <repository-url>
-   cd <repository-folder>
-```
+> Clone the Repository: 
+`git clone <repository-url>`
+ `cd <repository-folder>`
+ 
+> Build the Project:
+ ```mvn clean install```
+ This command will download all necessary dependencies specified in the pom.xml.
+---
 
-2. Build the Project:
+### Running Cucumber Tests
 
-   ```mvn clean install```
-   This command will download all necessary dependencies specified in the pom.xml.
+You can run the Cucumber tests in multiple ways:
 
-3. Configure WebDriver:
-
-   Update the WebDriverManager.java class with the correct path of your WebDriver executable if needed.
-
-   Executing Tests
-
-   Running Cucumber Tests
-   You can run the Cucumber tests in multiple ways:
-
-   Using the IDE:
-   If you are using an IDE like IntelliJ IDEA or Eclipse,
-  ``` you can right-click on the TestNGRunner.java file and select "Run" to execute your tests.```
-
-   Using Maven Command:
+   > Using the IDE:
+   > If you are using an IDE like IntelliJ IDEA or Eclipse
+  > you can right-click on the `TestNGRunner.java`  file and select `Run` to execute your tests.
+---
+  > Using Maven Command:
    You can also run the tests using Maven from the command line:
+   `mvn test`
 
-   ```mvn test```
+   ### Problem 2 
