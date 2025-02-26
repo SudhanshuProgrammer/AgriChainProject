@@ -20,7 +20,8 @@ Cucumber for Behavior Driven Development (BDD), and TestNG for test execution.
 - **Maven**: For project management and dependency management.
 
 ## Directory Structure
-rc/
+```
+src/
 │
 ├── test/
 │ ├── java/
@@ -38,7 +39,7 @@ rc/
 │ └── longest_substring.feature
 │
 └── pom.xml # Maven project file
-
+```
 
 ## Setting Up the Framework
 
