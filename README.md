@@ -51,16 +51,17 @@ src/
 
 ### Installation Steps
 
-1 Clone the Repository:
-   git clone <repository-url>
+1. Clone the Repository:
+```git clone <repository-url>
    cd <repository-folder>
+```
 
-2 Build the Project:
+2. Build the Project:
 
-   mvn clean install
+   ```mvn clean install```
    This command will download all necessary dependencies specified in the pom.xml.
 
-3 Configure WebDriver:
+3. Configure WebDriver:
 
    Update the WebDriverManager.java class with the correct path of your WebDriver executable if needed.
 
@@ -71,9 +72,9 @@ src/
 
    Using the IDE:
    If you are using an IDE like IntelliJ IDEA or Eclipse,
-   you can right-click on the TestNGRunner.java file and select "Run" to execute your tests.
+  ``` you can right-click on the TestNGRunner.java file and select "Run" to execute your tests.```
 
    Using Maven Command:
    You can also run the tests using Maven from the command line:
 
-   mvn test
+   ```mvn test```
