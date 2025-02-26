@@ -7,7 +7,7 @@
 
 ---
 
-> Note: Please open file to see the code `LongestSubstringWithoutRepeating.java` 
+> Note: Please open file to see the code `Problem2/LongestSubstringWithoutRepeating.java` 
 
 
 ## Problem 2 
