@@ -1,0 +1,49 @@
+13:36:43.547 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/sudhanshukumar/Library/Caches/JetBrains/IdeaIC2024.2/temp-testng-customsuite.xml"
+13:36:43.633 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/sudhanshukumar/Library/Caches/JetBrains/IdeaIC2024.2/temp-testng-customsuite.xml
+
+13:38:04.893 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/sudhanshukumar/Library/Caches/JetBrains/IdeaIC2024.2/temp-testng-customsuite.xml"
+13:38:04.988 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/sudhanshukumar/Library/Caches/JetBrains/IdeaIC2024.2/temp-testng-customsuite.xml
+
+14:17:26.071 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/sudhanshukumar/Library/Caches/JetBrains/IdeaIC2024.2/temp-testng-customsuite.xml"
+14:17:26.159 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/sudhanshukumar/Library/Caches/JetBrains/IdeaIC2024.2/temp-testng-customsuite.xml
+
+18:38:52.067 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/sudhanshukumar/BDDCucumberProjects/Instagram/master.xml"
+18:38:52.149 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:38:52.149 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:38:52.150 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:38:52.150 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:38:52.150 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:38:52.150 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:38:52.151 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:38:52.151 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:38:52.151 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:38:52.155 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+18:38:52.156 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:38:52.156 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:38:52.156 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:38:52.156 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:38:52.157 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:38:52.157 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:38:52.157 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:38:52.157 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:38:52.158 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:38:52.158 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:38:52.159 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:38:52.159 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:38:52.159 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:38:52.159 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:38:52.161 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+18:38:52.161 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:38:52.161 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:38:52.162 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:38:52.162 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:38:52.162 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:38:52.163 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/sudhanshukumar/BDDCucumberProjects/Instagram/master.xml
+
+18:38:52.166 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 1 ms.
+18:38:52.170 [main] INFO  org.testng.internal.Utils - [TestTaskExecutor] Starting executor test 2147483647 with time out: 2147483647 milliseconds.
+18:39:57.117 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@18b0930f: 0 ms
