@@ -64,23 +64,29 @@ This repository contains the testing framework for the Agrichain application, fo
 
 #### Directory Structure
 ```
+Problem2/
+├── AgrichainFeatureFiles/
+│ └── Longest_substring.feature
 src/
 │
 ├── test/
 │ ├── java/
-│ │ ├── stepDefinitiopns/ # Step definitions for Cucumber tests
-│ │ │ └── LongestSubstringSteps.java
 │ │ ├── pageObject/ # Page object classes for web pages
 │ │ │ └── HomePage.java
+│ │ ├── stepDefinitiopns/ # Step definitions for Cucumber tests
+│ │ │ └── LongestSubstringSteps.java
 │ │ ├── testRunners/ # TestNG runner classes
 │ │ │ └── TestNGRunner.java
 │ │ └── utils/ # Utility classes (e.g., WebDriver manager)
 │ │ └── WebDriverManager.java
 │ │
 │ └── resources/
-│ └── features/ # Cucumber feature files
+│ └── Log4j2.xml/ # Xml Log file
 │ └── longest_substring.feature
 │
+└── target # Report file
+│   └── cucumebr-report.html
+|
 └── pom.xml # Maven project file
 ```
 
